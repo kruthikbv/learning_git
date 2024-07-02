@@ -1,2 +1,1 @@
-print("THIS IS A NEW FILE TO BE PUSHED")
-print("THIS IS THE MODIFIED ONE")
+print("THIS IS app.py file pushed after modification to the cloudchamp branch,not the master branch")
